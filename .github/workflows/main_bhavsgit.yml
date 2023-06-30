@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bhavsgit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C8A9965657D34BAAB142BDC1EDBCEEE6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7ACAE8925F7B439B9C9666F5D0475BE4 }}
